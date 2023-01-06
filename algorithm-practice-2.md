@@ -11,7 +11,9 @@
 
 İlk olarak 7 rakamından başlayıp, bunun Kök Boğum(Root Node) olduğunu düşünerekten en başa yerleştirelim.
 
-            ________[7]________
+root = 7
+
+           ________[7]________
            |                 |
       ____[5]____           [8]____
       |         |                 |
