@@ -13,5 +13,4 @@
 
 root = 7
 
-
-(https://imgyukle.com/f/2023/01/06/JW8vHI.png)
+![image](https://user-images.githubusercontent.com/75690935/211017568-6d3a410c-265b-4525-85bb-bbed869eef06.png)
