@@ -13,4 +13,5 @@
 
 root = 7
 
-https://www.hizliresim.com/jrpfjlq
+
+(https://imgyukle.com/f/2023/01/06/JW8vHI.png)
